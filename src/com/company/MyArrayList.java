@@ -10,5 +10,4 @@ public interface MyArrayList<T>
     void remove(int index);
     void remove(T t);
     int size();
-    int sort();
 }
